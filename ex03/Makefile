@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = unnecessaryViolence
 SOURCES = main.cpp Weapon.cpp HumanA.cpp HumanB.cpp
 INCLUDES = Weapon.hpp HumanA.hpp HumanB.hpp
 

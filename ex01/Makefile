@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = moarBrainz
 SOURCES = main.cpp Zombie.cpp zombieHorde.cpp
 INCLUDES = Zombie.hpp
 

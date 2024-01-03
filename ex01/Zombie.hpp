@@ -15,6 +15,4 @@ public:
 	void announce(void);
 };
 
-void	zombieHorde(int, std::string);
-
 #endif

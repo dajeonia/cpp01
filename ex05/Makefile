@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = harl
 SOURCES = main.cpp Harl.cpp
 INCLUDES = Harl.hpp
 

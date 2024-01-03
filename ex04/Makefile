@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = mySed
 SOURCES = main.cpp
 INCLUDES =
 

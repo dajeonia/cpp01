@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = braiiiiiiinnnzzzZ
 SOURCES = main.cpp Zombie.cpp newZombie.cpp randomChump.cpp
 INCLUDES = Zombie.hpp
 

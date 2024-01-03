@@ -1,5 +1,5 @@
 #ifndef ZOMBIE_HPP
-
+# define ZOMBIE_HPP
 # include <string>
 # include <iostream>
 
@@ -14,8 +14,5 @@ public:
 
 	void announce(void);
 };
-
-Zombie	*newZombie(std::string);
-void 	randomChump(std::string);
 
 #endif

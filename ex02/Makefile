@@ -1,4 +1,4 @@
-NAME = a.out
+NAME = hiThisIsBrain
 SOURCES = main.cpp
 INCLUDES = 
 
